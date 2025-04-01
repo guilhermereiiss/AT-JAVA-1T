@@ -1,7 +1,7 @@
 
 # Assessment-JAVA01
 
-![Imagem do Projeto](https://i.ibb.co/JWDzb9n5/Blue-and-Black-Modern-Coding-School-Presentation.png)
+[img]https://i.ibb.co/KcT9QJ6F/Blue-and-Black-Modern-Coding-School-Presentation.png[/img] 
 
 Bem-vindo ao repositório `Assessment-JAVA01`! Este projeto contém uma série de exercícios em Java desenvolvidos para praticar conceitos fundamentais da linguagem, como configuração de ambiente, manipulação de entrada/saída, orientação a objetos, manipulação de arquivos e estruturas de dados. Abaixo estão os detalhes de cada exercício, incluindo os enunciados completos e a estrutura do projeto.
 
