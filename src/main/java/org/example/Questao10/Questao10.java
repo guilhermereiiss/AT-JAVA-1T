@@ -31,7 +31,7 @@ public class Questao10 {
         registros.add("--------|------------|---------------|------------");
 
         for (int i = 1; i <= quantidade; i++) {
-            System.out.println("\nCadastro da compra #" + i);
+            System.out.println("\nCadastro da compra: " + i);
 
             System.out.print("Produto: ");
             String produto = scanner.nextLine();
