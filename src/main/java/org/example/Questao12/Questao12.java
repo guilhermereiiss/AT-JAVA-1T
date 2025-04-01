@@ -7,7 +7,7 @@ public class Questao12 {
         String[] mensagens = new String[10];
         int contadorMensagens = 0;
 
-        System.out.print("Digite o nome do primeiro usuario: ");
+        System.out.print("Digite o nome do primeiro usuario : ");
         String usuario1 = scanner.nextLine();
         System.out.print("Digite o nome do segundo usuario: ");
         String usuario2 = scanner.nextLine();
