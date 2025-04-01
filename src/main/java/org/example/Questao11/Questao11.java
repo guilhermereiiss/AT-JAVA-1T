@@ -21,9 +21,9 @@ public class Questao11 {
         while (numerosUsuario.size() < 6) {
             int num = scanner.nextInt();
             if (num < 1 || num > 60) {
-                System.out.println("Número invalido, Digite um número entre 1 e 60.");
+                System.out.println("Numero invalido, Digite um numero entre 1 e 60.");
             } else if (!numerosUsuario.add(num)) {
-                System.out.println("Número repetido, Digite um numero diferente.");
+                System.out.println("Numero repetido, Digite um numero diferente.");
             }
         }
 
@@ -32,7 +32,7 @@ public class Questao11 {
 
         System.out.println("\nNumeros sorteados: " + numerosSorteados);
         System.out.println("Seus numeros: " + numerosUsuario);
-        System.out.println("Você acertou " + acertos.size() + " numero(s): " + acertos);
+        System.out.println("Voce acertou " + acertos.size() + " numero(s): " + acertos);
         scanner.close();
     }
 }

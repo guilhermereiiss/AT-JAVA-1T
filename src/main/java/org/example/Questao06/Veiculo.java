@@ -18,7 +18,8 @@ public class Veiculo {
         System.out.println("Modelo: " + modelo);
         System.out.println("Ano de Fabricação: " + anoFabricacao);
         System.out.println("Quilometragem: " + quilometragem + " km");
-        System.out.println("-----------------------------");
+        System.out.println();
+        System.out.println();
     }
 
     public void registrarViagem(double km) {
@@ -26,7 +27,7 @@ public class Veiculo {
             this.quilometragem += km;
             System.out.println("Viagem registrada! Nova quilometragem: " + this.quilometragem + " km");
         } else {
-            System.out.println("Distância inválida para registrar viagem.");
+            System.out.println("Distancia invalida para registrar viagem.");
         }
     }
 }

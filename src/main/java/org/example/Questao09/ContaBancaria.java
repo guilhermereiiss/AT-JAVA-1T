@@ -4,7 +4,7 @@ public class ContaBancaria {
     String titular;
     private double saldo;
 
-    public String getTitular() { return titular;}
+    public String getTitular() {return titular;}
 
     public double getSaldo() {return saldo;}
 
@@ -18,7 +18,7 @@ public class ContaBancaria {
             saldo += valor;
             System.out.println("Deposito de R$ " + valor + " realizado com sucesso!");
         }else{
-            System.out.println("Valor de depósito inválido.");
+            System.out.println("Valor de deposito inválido.");
         }
     }
 
@@ -27,7 +27,7 @@ public class ContaBancaria {
             saldo -= valor;
             System.out.println("Saque de R$ " + valor + " realizado com sucesso.");
         } else {
-            System.out.println("Saldo insuficiente ou valor inválido para saque.");
+            System.out.println("Saldo insuficiente ou valor invalido para saque.");
         }
     }
 

@@ -22,9 +22,9 @@ public class Aluno {
         double media = calcularMedia();
         System.out.println("Média: " + media);
         if (media >= 7) {
-            System.out.println("Status: Aprovado");
+            System.out.println("Foi: Aprovado");
         } else {
-            System.out.println("Status: Reprovado");
+            System.out.println("Foi: Reprovado");
         }
     }
 }

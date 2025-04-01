@@ -22,7 +22,7 @@ public class Questao04 {
         double valorTotalPago = valorEmprestimo * Math.pow(1 + taxaJuros, parcelas);
         double valorParcela = valorTotalPago / parcelas;
 
-        System.out.println("\nSimulação de Emprestimo para " + nome + ":");
+        System.out.println("\nSimulação de Emprestimo para " + nome + ": ");
         System.out.printf("- Valor Total Pago: R$ %.2f\n", valorTotalPago);
         System.out.printf("- Valor da Parcela: R$ %.2f (%dx)\n", valorParcela, parcelas);
         scanner.close();

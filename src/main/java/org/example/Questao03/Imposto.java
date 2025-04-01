@@ -12,18 +12,18 @@ public class Imposto {
         double salarioMensal = scanner.nextDouble();
         double salarioAnual = salarioMensal * 12;
 
-        double taxinha;
+        double taxa;
         if (salarioAnual <= 22847.76) {
-            taxinha = 0;
+            taxa = 0;
         } else if (salarioAnual <= 33919.80) {
-            taxinha = 0.075;
+            taxa = 0.075;
         } else if (salarioAnual <= 45012.60) {
-            taxinha = 0.15;
+            taxa = 0.15;
         } else {
-            taxinha = 0.275;
+            taxa = 0.275;
         }
 
-        double imposto = salarioAnual * taxinha;
+        double imposto = salarioAnual * taxa;
         double salarioLiquido = salarioAnual - imposto;
 
         System.out.println("\nNome: " + nome);

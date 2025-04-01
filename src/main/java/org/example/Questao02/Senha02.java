@@ -16,7 +16,7 @@ public class Senha02 {
 
             String mensagemErro = validarSenha(senha);
             if (mensagemErro == null) {
-                System.out.println("Senha cadastrada com sucesso!");
+                System.out.println("Senha cadastrada com sucesso!!!!!");
                 break;
             } else {
                 System.out.println("Erro: " + mensagemErro);
