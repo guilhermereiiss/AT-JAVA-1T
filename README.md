@@ -1,7 +1,7 @@
 
 # Assessment-JAVA01
 
-![Imagem do Projeto](blob:https://imgur.com/ac3f5c91-1664-46c2-b9ab-7c60871218ea)
+![Imagem do Projeto](https://imgur.com/a/UjfUMFM)
 
 Bem-vindo ao repositório `Assessment-JAVA01`! Este projeto contém uma série de exercícios em Java desenvolvidos para praticar conceitos fundamentais da linguagem, como configuração de ambiente, manipulação de entrada/saída, orientação a objetos, manipulação de arquivos e estruturas de dados. Abaixo estão os detalhes de cada exercício, incluindo os enunciados completos e a estrutura do projeto.
 
