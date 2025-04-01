@@ -1,7 +1,7 @@
 
 # Assessment-JAVA01
 
-![Imagem do Projeto]([INSIRA_O_LINK_DA_IMAGEM_AQUI](https://ibb.co/RGRCMq2z))
+![Imagem do Projeto](https://i.ibb.co/KcT9QJ6F/Blue-and-Black-Modern-Coding-School-Presentation.png)
 
 Bem-vindo ao repositório `Assessment-JAVA01`! Este projeto contém uma série de exercícios em Java desenvolvidos para praticar conceitos fundamentais da linguagem, como configuração de ambiente, manipulação de entrada/saída, orientação a objetos, manipulação de arquivos e estruturas de dados. Abaixo estão os detalhes de cada exercício, incluindo os enunciados completos e a estrutura do projeto.
 
@@ -403,10 +403,3 @@ Sinta-se à vontade para abrir issues ou pull requests com sugestões de melhori
 **Data:** Março de 2025
 ```
 
-### Instruções para Uso:
-1. **Imagem:** Substitua `INSIRA_O_LINK_DA_IMAGEM_AQUI` pelo link da imagem que você deseja usar (pode ser hospedada no GitHub ou em outro serviço como Imgur).
-2. **Seu Nome:** Substitua `[Seu Nome]` pelo seu nome real nos exercícios e no rodapé.
-3. **Personalização:** Adicione mais informações, como capturas de tela ou links adicionais, se desejar.
-4. **Upload:** Salve este conteúdo como `README.md` na raiz do seu repositório no GitHub.
-
-Este README fornece uma documentação clara e completa para o seu projeto!
