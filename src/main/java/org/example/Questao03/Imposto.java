@@ -27,9 +27,9 @@ public class Imposto {
         double salarioLiquido = salarioAnual - imposto;
 
         System.out.println("\nNome: " + nome);
-        System.out.println("Salario Anual: R$ " + salarioAnual);
-        System.out.println("Imposto a pagar: R$ "+ imposto);
-        System.out.println("Salario Liquido: R$ "+ salarioLiquido);
+        System.out.printf("Salario Anual: R$ %.2f%n", salarioAnual);
+        System.out.printf("Imposto a pagar: R$ %.2f%n", imposto);
+        System.out.printf("Salario Liquido: R$ %.2f%n", salarioLiquido);
 
         scanner.close();
     }

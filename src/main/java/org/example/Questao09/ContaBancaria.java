@@ -3,9 +3,7 @@ package org.example.Questao09;
 public class ContaBancaria {
     String titular;
     private double saldo;
-
     public String getTitular() {return titular;}
-
     public double getSaldo() {return saldo;}
 
     public ContaBancaria(String titular, double saldo) {
