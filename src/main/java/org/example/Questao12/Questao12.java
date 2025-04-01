@@ -20,7 +20,7 @@ public class Questao12 {
                 System.out.print(usuario2 + ", digite sua mensagem: ");
                 mensagens[contadorMensagens] = usuario2 + ": " + scanner.nextLine();
             }
-            contadorMensagens++;
+            contadorMensagens++ ;
         }
 
         System.out.println("\nHistorico das mensagens");
